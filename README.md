@@ -1,6 +1,6 @@
 Mapping EC2 Instance Types to IBM Cloud Instance Profiles
 
-IBM's new Generation 2 VM Service has new profiles (flavors), this maps common EC2 types to a similar type in IBM Cloud.
+IBM's new [Generation 2 VM Service](https://www.ibm.com/cloud/vpc/security) has new profiles (flavors), this maps common EC2 types to a similar type in IBM Cloud.
 
 > Note this is not official don't sue me. This is for quick reference only, always check what you're doing yourself.
 
